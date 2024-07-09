@@ -80,7 +80,7 @@ Baca panduan kontribusi lebih lanjut di [CONTRIBUTING.md](CONTRIBUTING.md).
 Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ## Kontak
-Untuk pertanyaan lebih lanjut, hubungi saya di [email@example.com](mailto:email@example.com).
+Untuk pertanyaan lebih lanjut, hubungi saya di [zakihanif155@gmail.com](mailto:zakihanif155@gmail.com).
 
 ---
 
